@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - deps-ci
   pull_request:
 
 jobs:
